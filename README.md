@@ -44,7 +44,7 @@ The project aims to predict plant diseases early in green gram crops using IoT s
 ---
 
 ## **Demo Video**
-(./Project_K.mp4)
+(./Project_K (1).mp4)
 
 Click the image above to watch the full demo video.
 
