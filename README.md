@@ -78,4 +78,4 @@ Click the image above to watch the full demo video.
 ## **Contact**
 For queries or collaboration, reach out:  
 - **Email**: sakshi.mishra@example.com  
-- **LinkedIn**: [Your LinkedIn Profile Link]  
+
